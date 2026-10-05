@@ -1,11 +1,11 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import Navbar from "./components/Navbar.jsx";
-import Home from "./pages/Home";
-import Vehicles from "./pages/Vehicles";
-import BookRide from "./pages/BookRide";
-import Bookings from "./pages/Bookings";
-import About from "./Pages/About.jsx/index.js";
+import Home from "./pages/Home.jsx";
+import Vehicles from "./pages/Vehicles.jsx";
+import BookRide from "./pages/BookRide.jsx";
+import Bookings from "./pages/Bookings.jsx";
+import About from "./Pages/About.jsx";
 
 function App() {
   return (
