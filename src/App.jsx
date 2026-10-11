@@ -5,7 +5,7 @@ import Home from "./pages/Home.jsx";
 import Vehicles from "./pages/Vehicles.jsx";
 import BookRide from "./pages/BookRide.jsx";
 import Bookings from "./pages/Bookings.jsx";
-import About from "./Pages/About.jsx";
+import About from "./pages/About.jsx";
 
 function App() {
   return (
